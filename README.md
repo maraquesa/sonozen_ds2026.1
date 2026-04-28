@@ -1,4 +1,4 @@
-# Desemvolvimento  de Software 2026.1
+# Desenvolvimento  de Software 2026.1
 
 # Sobre
 O objetivo é desenvolver um serviço integrado à Inteligência Artificial, capaz de acompanhar a rotina do usuário, entender seus hábitos e ajudá-lo a se organizar com mais eficiência, além de cuidar da saúde do sono.
